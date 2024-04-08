@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... storytelling 
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... don't know yet 
-- 📫 How to reach me ... neverending.storyarc@gmail.com 
+- 📫 How to reach me ...
 
 <!---
 neverendingstoryarc/neverendingstoryarc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
