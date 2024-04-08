@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neverendingstoryarc
 - 👀 I’m interested in ... storytelling 
-- 🌱 I’m currently learning ... DITA XML
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... don't know yet 
 - 📫 How to reach me ... neverending.storyarc@gmail.com 
 
